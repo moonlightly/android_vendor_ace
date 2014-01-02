@@ -1,0 +1,2 @@
+add_lunch_combo aosap_mako-userdebug
+add_lunch_combo aosap_taoshan-userdebug
